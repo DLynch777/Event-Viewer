@@ -1,18 +1,21 @@
 <p align="center">
-<img width="1121" alt="image" src="https://github.com/user-attachments/assets/8d951474-b91f-47cb-be20-5b4ce40c7d6d" />
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/e1a22da4-b158-4621-a215-4dee9b0ead59" />
+
+
+
 
 
 
 </p>
 
-<h1>DNS</h1>
-The following below highlights the skills and abilities that I possess in regards to Domain Name System. It showcases skills in configuring settings and creating records.<br />
+<h1>Security: Event Viewer</h1>
+The following below highlights the skills and abilities that I possess in regards to System Security utilizing Event Viewer. In particular, the examples showcased below, demonstrate skills in reviewing security logs to identify potential threats and vulnerabilities such as failed login attempts.
 
 
 <h2>Environments and Technologies Used</h2>
 
 - MS Azure VM
-- DNS Manager
+- Event Viewer
 
 
 
@@ -23,42 +26,33 @@ The following below highlights the skills and abilities that I possess in regard
 
 
 
-<h2>1.) Creating a DNS "A-record"</h2>
+<h2>1.)	Reviewing Logs in Event Viewer (Failed Login Attempts)</h2>
 
-<img width="652" alt="image" src="https://github.com/user-attachments/assets/a00af5ee-d71e-4ca2-b567-303d1def0cbf" />
-
-
-<h2>Add “New Host (A…)”</h2>
-
-<img width="667" alt="image" src="https://github.com/user-attachments/assets/b9c57574-0031-4406-b516-63d31069bd25" />
-
-
-<h2>Enter details</h2>
-
-<img width="443" alt="image" src="https://github.com/user-attachments/assets/a3c128fd-84d3-4191-bcbc-fe128794412e" />
-
-
-<h2>New A-record successfully created</h2>
-
-<img width="576" alt="image" src="https://github.com/user-attachments/assets/d552532c-0534-4488-be73-75d064e24d5b" />
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/34bd63f3-9f1c-48e6-b31e-5f8be559d1c7" />
 
 
 
+<h2>Windows Logs > Security</h2>
+
+<img width="622" alt="image" src="https://github.com/user-attachments/assets/7f153764-41db-4ce9-9196-9a6bda87f6ae" />
 
 
 
+<h2>Filtering to “Audit Failures”</h2>
 
-<h2>2.) Creating a DNS "CNAME" record</h2>
-
-<img width="614" alt="image" src="https://github.com/user-attachments/assets/e19691d8-2070-4186-92db-6a786850647a" />
-
-
-<h2>Enter Details</h2>
-
-<img width="639" alt="image" src="https://github.com/user-attachments/assets/4e46ac4b-1181-4396-a84e-ab27b2bd8c13" />
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/b3c00b0e-fc8a-4ef2-8561-eb982be7c993" />
 
 
-<h2>New "CNAME" record successfully created</h2>
 
-<img width="626" alt="image" src="https://github.com/user-attachments/assets/29be9c20-a9b0-4762-9824-3a2f9d27ad9d" />
+<h2>Filtering to “Audit Failures”</h2>
+
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/8213282d-5552-48e9-8815-80f949f91646" />
+
+
+
+<h2>Reviewing logs for failed logon attempts</h2>
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/89aceebb-89e3-4c72-92cf-441735030f90" />
+
+
 
