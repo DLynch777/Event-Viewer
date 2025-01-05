@@ -9,7 +9,7 @@
 </p>
 
 <h1>Security: Event Viewer</h1>
-The following below highlights the skills and abilities that I possess in regards to System Security utilizing Event Viewer. In particular, the examples showcased below, demonstrate skills in reviewing security logs to identify potential threats and vulnerabilities such as failed login attempts.
+The following below highlights the skills and abilities that I possess in regards to System Security utilizing Event Viewer. In particular, the examples showcased below, demonstrate skills in reviewing security logs to identify potential threats such as failed login attempts.
 
 
 <h2>Environments and Technologies Used</h2>
